@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Valdir-coelho-jr
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Python
+- 
+- 📫 How to reach me: https://www.linkedin.com/in/valdir-coelho-junior-ab170a179/
+- 
