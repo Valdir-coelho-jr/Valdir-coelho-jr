@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo React JS<br>🎯 Objetivo: Se tornar um Desenvolvedor Full-Stack</p>
+<p align="left">📚 Atualmente estou aprendendo ReactJS e TypeScript<br>🎯 Objetivo: Se tornar um Desenvolvedor Full-Stack</p>
 
 ###
 
