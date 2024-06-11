@@ -1,12 +1,13 @@
-<h1 align="center">Olá! Eu sou Valdir Coelho Junior</h1>
+## Olá! Eu sou Valdir Coelho Junior
 
 ###
 
-<hr><p align="center">Sempre gostei de Tecnologia. Sou apaixonado por Design gráfico, pixel art e programação, tanto back-end quanto front-end. Também sou apaixonado por games, principalmente os competitivos!</p><hr>
+<hr><p align="center">Sou um apaixonado por tecnologia e programação, atuando como desenvolvedor Fullstack. Adoro me aventurar no mundo do design gráfico e pixel art, além de ser um fã de games, principalmente os competitivos!</p><hr>
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo ReactJS e TypeScript<br>🎯 Objetivo: Se tornar um Desenvolvedor Full-Stack</p>
+<p align="left">📚 Sou formado em Análise e Desenvolvimento de Sistemas pela UNIP e estou cursando uma segunda graduação em Desenvolvimento Mobile. 
+<br>🎯 Meu foco principal é me aprimorar na área de desenvolvimento Fullstack com Node.js, e me tornar um especialista em construir aplicações web robustas e escaláveis. </p>
 
 ###
 
@@ -17,29 +18,50 @@
 
 ###
 
-<h2 align="left">🛠 Tecnologias que utilizo no meu dia 🛠</h2>
+<h2 align="left">🛠 Tecnologias que domino no meu dia a dia 🛠</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="52" alt="nodejs logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
 ###
 
-<h3 align="left">Outras tecnologias</h3>
+<h3 align="left">Outras tecnologias que já utilizei</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
 </div>
+
+###
+
+<h2 align="left">👨‍💻 Hard Skills 👨‍💻</h2>
+
+###
+
+* **Back-end:** Node.js, Express.js, TypeScript, RESTful APIs, Arquitetura de Software.
+* **Front-end:** React.js, HTML, CSS, JavaScript.
+* **Banco de Dados:** MySQL.
+* **Outras:**  Git, Metodologias Ágeis (Scrum, Kanban), Testes Unitários.
+
+###
+
+<h2 align="left">🤝 Soft Skills 🤝</h2>
+
+###
+
+* **Resolução de problemas:** Sou um solucionador nato, com a capacidade de analisar situações complexas e encontrar soluções criativas e eficazes.
+* **Comunicação:** Comunicação clara, eficiente e receptiva, tanto escrita como verbal, para interagir com colegas, clientes e stakeholders.
+* **Adaptabilidade:** Flexibilidade para lidar com mudanças, aprender novas tecnologias e me adaptar a diferentes cenários e desafios.
+* **Trabalho em equipe:**  Trabalho colaborativamente, valorizando a comunicação aberta, o feedback construtivo e a busca por resultados em conjunto.
 
 ###
 
@@ -52,7 +74,13 @@
 
 ###
 
-<h2>Contato por E-mail</h2>
-- E-mail para contato profissional: valdir.jr.profissional@gmail.com 
+<h2>Contato</h2>
+- E-mail para contato profissional: <a href="mailto:valdir.jr.profissional@gmail.com">valdir.jr.profissional@gmail.com</a> 
 
 ###
+
+<p>Acesse meu portfólio para ver alguns dos meus projetos: <a href="https://valdirjrportfolio.netlify.app/">https://valdirjrportfolio.netlify.app/</a></p>
+
+###
+
+Espero que esta atualização do seu perfil no Github seja útil! 😄 
