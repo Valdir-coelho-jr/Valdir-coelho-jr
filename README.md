@@ -48,7 +48,7 @@
 ###
 
 * **Back-end:** Node.js, Express.js, TypeScript, RESTful APIs, Arquitetura de Software.
-* **Front-end:** React.js, HTML, CSS, JavaScript.
+* **Front-end:** React.js, JavaScript.
 * **Banco de Dados:** MySQL.
 * **Outras:**  Git, Metodologias Ágeis (Scrum, Kanban), Testes Unitários.
 
